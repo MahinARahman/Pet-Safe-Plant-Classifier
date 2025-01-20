@@ -18,7 +18,7 @@ Effects of exposure to toxic house plants by [American Society for the Preventio
 - Custom ViT trained from scratch on our dataset 
 - Custom EfficientNet-B3
 
-ViT Pre-Trained on PlantNet stood out as the most effective model with 92% accuracy and smooth decline of train and test loss curves. 
+ViT Pre-Trained on PlantNet stood out as the most effective model with 92% accuracy and smooth decline of train and test loss curves. The model can be downloaded [here](https://drive.google.com/file/d/1iKAACAXRcNjAVhPet2xd5MxVXxp2MNDY/view?usp=sharing). 
 Pandas Dictionary for mapping top pets in USA households (dogs, cats, rabbits, reptiles and birds) to effects of exposure to house plants was created.
 
 ## Results
